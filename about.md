@@ -3,7 +3,7 @@ layout: tf-doc
 title: About TotalFinder
 subtitle: About TotalFinder
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/about.md">
 ## TotalFinder is just a better Finder
 
 <img src="/images/showcase/thumb-showcase-dual-mode.png" style="float:right; width:360px; margin-left: 20px; position: relative; top: -24px">
@@ -30,4 +30,4 @@ You can go to the Terminal.app and type:
    
     killall Finder 
     
-This will restart Finder with an unaltered state. That means TotalFinder will not load automatically next time. To open TotalFinder again, launch TotalFinder.app in /Applications.
+This will restart Finder with an unaltered state. That means TotalFinder will not load automatically next time. To open TotalFinder again, launch TotalFinder.app in /Applications.</span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

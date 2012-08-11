@@ -3,7 +3,7 @@ layout: tf-doc
 title: TotalFinder Acknowledgements
 subtitle: Acknowledgements
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/acknowledgements.md">
 ## Nicholas Jitkoff, Antonin Hildebrand (The Visor Project)
 [http://github.com/darwin/visor](http://github.com/darwin/visor)
 
@@ -236,7 +236,7 @@ Toolkit (http://www.openssl.org). This toolkit is licensed as follows:
     January 01, 2009
 
     This is the legal notice for F-Script:
-    --------------------------------------
+    -----------------------------------</span>---
 
     F-Script. Copyright (c) 1997, 2009, Philippe Mougin. All rights reserved.
 
@@ -369,3 +369,4 @@ Toolkit (http://www.openssl.org). This toolkit is licensed as follows:
     CocoaFob is distributed under Creative Commons Attribution 3.0 License
     http://creativecommons.org/licenses/by/3.0/. Attribution may take form of a
     mention in your application About box or other documentation.
+<script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

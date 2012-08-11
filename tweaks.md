@@ -3,7 +3,7 @@ layout: tf-doc
 title: TotalFinder Tweaks
 subtitle: Tweaks
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/tweaks.md">
 <div class="doc-side">
     <div class="doc-side-inner">
         <h2>Preferences</h2>
@@ -77,4 +77,4 @@ For people who are running OSX on small notebooks with small displays. Checking 
         <tr><td>Toggle Dual Mode</td><td>⌘U</td><td></td></tr>
         <tr><td>Use narrow Tabs Bar</td><td>⇧⌘B</td><td></td></tr>
     </table>
-</div>
+</div></span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

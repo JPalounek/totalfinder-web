@@ -3,7 +3,7 @@ layout: tf-doc
 title: Recent changes in TotalFinder pre-releases
 subtitle: Recent changes in pre-releases
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/beta-changes.md">
 <a href="javascript:showBetaHint(this);">How to switch to pre-releases in TotalFinder?</a>
 <div class="betahint" style="display:none; margin-top: -10px; margin-left: 20px">
     Please switch the combo box next to the "Check for updates..." button:<br/>
@@ -20,4 +20,4 @@ subtitle: Recent changes in pre-releases
     function showBetaHint() {
         $('.betahint').toggle();
     }
-</script>
+</script></span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

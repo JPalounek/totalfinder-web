@@ -3,7 +3,7 @@ layout: tf-doc
 title: Licensing TotalFinder
 subtitle: Licensing TotalFinder
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/licensing.md">
 ## Trial Version
 
 <div class="license-desk">
@@ -67,4 +67,4 @@ Also please note that I'm not in control of what Apple does with Finder in the f
 
 <div class="license-exclamation">
 You are using TotalFinder at your own risk. I'm not responsible for anything bad which could possibly happen using this software.
-</div>
+</div></span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

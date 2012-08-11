@@ -3,7 +3,7 @@ layout: tf-doc
 title: TotalFinder compatibility with OSX 10.8 (Lion)
 subtitle: Compatibility with OSX 10.8 (Lion)
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/mountain-lion.md">
 ## Mountain Lion status
 
 Good news! The latest release of TotalFinder fully works under Mountain Lion (OSX 10.8).
@@ -21,7 +21,7 @@ Please report bugs and compatibility issues here: [http://getsatisfaction.com/bi
 
 **Thanks, you are awesome!**
 
----
+</span>---
 
 Just want to chat about Mountain Lion and TotalFinder future? Please use this topic:
-[https://getsatisfaction.com/binaryage/topics/mountain_lion_support_for_totalfinder](https://getsatisfaction.com/binaryage/topics/mountain_lion_support_for_totalfinder)
+[https://getsatisfaction.com/binaryage/topics/mountain_lion_support_for_totalfinder](https://getsatisfaction.com/binaryage/topics/mountain_lion_support_for_totalfinder)<script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

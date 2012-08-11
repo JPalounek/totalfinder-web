@@ -3,7 +3,7 @@ layout: tf-doc
 title: Free licenses for TotalFinder
 subtitle: Free licenses for TotalFinder
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/free-licenses.md">
 ## Free licenses for users
 
 I will grant a free license to everyone who meets any of these criteria:
@@ -30,4 +30,4 @@ For your articles you may grab any graphics assets you see around. You may also 
 * [http://github.com/binaryage/totalfinder-web/tree/gh-pages/images/](http://github.com/binaryage/totalfinder-web/tree/gh-pages/images/)
 * [http://github.com/binaryage/blog/tree/gh-pages/images/](http://github.com/binaryage/blog/tree/gh-pages/images/)
 
-**Thank you!**
+**Thank you!**</span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

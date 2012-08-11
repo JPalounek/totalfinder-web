@@ -3,7 +3,7 @@ layout: tf-doc
 title: Dual Mode in TotalFinder
 subtitle: Dual Mode
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/dual-mode.md">
 <img src="/images/dual-mode.png" class="doc-image">
 
 <div class="doc-side">
@@ -37,4 +37,4 @@ You may enter dual mode by double-clicking a tab or pressing ⌘U. The selected 
         <tr><td>Toggle dual mode</td><td>⌘U</td><td></td></tr>
         <tr><td>Switch active panel</td><td>⌥⇥</td><td></td></tr>
     </table>
-</div>
+</div></span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

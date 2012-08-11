@@ -3,7 +3,7 @@ layout: tf-doc
 title: Show System Files in TotalFinder
 subtitle: Show System Files
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/show-system-files.md">
 <div class="doc-double">
 <img src="/images/system-files-disabled.png" class="doc-image1">
 <img src="/images/system-files-enabled.png" class="doc-image2">
@@ -33,3 +33,4 @@ TotalFinder adds a keyboard shortcut to toggle display of these files without th
     </table>
 </div>
 
+</span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

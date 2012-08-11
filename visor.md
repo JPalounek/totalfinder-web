@@ -3,7 +3,7 @@ layout: tf-doc
 title: Visor in TotalFinder
 subtitle: Visor
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/visor.md">
 <img src="/images/visor-fade.png" class="doc-image" style="margin-bottom: 0px">
 
 <div class="doc-side">
@@ -63,3 +63,4 @@ The Visor window slides on screen similar way to how the game console did in the
         <tr><td>Pin Visor</td><td>⇧⌘P</td><td></td></tr>
     </table>
 </div>
+</span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

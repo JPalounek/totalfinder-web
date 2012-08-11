@@ -3,7 +3,7 @@ layout: tf-doc
 title: Recent Questions about TotalFinder
 subtitle: Recent Questions
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/questions.md">
 <div class="doc-home-side">
     <div id='gsfn_list_widget'>
         <a href="http://support.binaryage.com" class="widget_title">Recent questions asked by users</a>
@@ -16,4 +16,4 @@ subtitle: Recent Questions
 </div>
 
 <script src="http://getsatisfaction.com/binaryage/widgets/javascripts/840ea68bc6/widgets.js" type="text/javascript"></script>
-<script src="http://getsatisfaction.com/binaryage/topics.widget?callback=gsfnTopicsCallback&amp;limit=20&amp;product=binaryage_totalfinder&amp;sort=last_active_at&amp;style=question" type="text/javascript"></script>
+<script src="http://getsatisfaction.com/binaryage/topics.widget?callback=gsfnTopicsCallback&amp;limit=20&amp;product=binaryage_totalfinder&amp;sort=last_active_at&amp;style=question" type="text/javascript"></script></span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

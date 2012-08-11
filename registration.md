@@ -3,7 +3,7 @@ layout: tf-doc
 title: Registering TotalFinder
 subtitle: Registration
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/registration.md">
 ## Thanks for considering buying TotalFinder
 
 This should be really straight-forward. It should take less than 5 minutes in most cases.
@@ -43,6 +43,6 @@ Click Register and you get this happy screen if you did it right:
 
 Thank you for registering and enjoy using TotalFinder! 
 
----
+</span>---
 
-And please [let me know](mailto:support@binaryage.com) if you have any trouble completing your registration.
+And please [let me know](mailto:support@binaryage.com) if you have any trouble completing your registration.<script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

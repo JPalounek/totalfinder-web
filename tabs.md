@@ -3,7 +3,7 @@ layout: tf-doc
 title: Tabs in TotalFinder
 subtitle: Tabs
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/tabs.md">
 <img src="/images/tabs.png" class="doc-image">
 
 <div class="doc-side">
@@ -54,4 +54,4 @@ Go to `System Preferences -> Keyboard -> Keyboard Shortcuts -> Application Short
 
 <img src="/images/mapping-shortcuts.png" width="500">
 
-<div style="color: #888; font-size:10px;">Note that adding ⌘⌥← and  ⌘⌥→ overrides standard Finder shortcuts for expanding items in the list view.<br>See this <a href="http://getsatisfaction.com/binaryage/topics/running_totalfinder_disables_cmd_opt_rightarrow_expand_all_effect">topic for more information</a>.</div>
+<div style="color: #888; font-size:10px;">Note that adding ⌘⌥← and  ⌘⌥→ overrides standard Finder shortcuts for expanding items in the list view.<br>See this <a href="http://getsatisfaction.com/binaryage/topics/running_totalfinder_disables_cmd_opt_rightarrow_expand_all_effect">topic for more information</a>.</div></span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

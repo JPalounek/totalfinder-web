@@ -3,7 +3,7 @@ layout: tf-doc
 title: TotalFinder Credits
 subtitle: Credits
 ---
-
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/credits.md">
 ## __TotalFinder was created with contributions from many people__
 
 ## People who contributed significantly
@@ -35,6 +35,6 @@ To see full formal acknowledgements, please [visit this page](http://totalfinder
 
 Anyone who contributed to these projects can [grab a free copy](http://totalfinder.binaryage.com/free-licenses).
 
----
+</span>---
 
-<div style="color: #666; font-size: 10px">Please <a href="mailto:antonin@binaryage.com">send me an email</a> if you think I forgot to mention someone. Thank you.</div>
+<div style="color: #666; font-size: 10px">Please <a href="mailto:antonin@binaryage.com">send me an email</a> if you think I forgot to mention someone. Thank you.</div><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>

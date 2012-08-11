@@ -52,7 +52,7 @@ shots: [{
     klass: "no-shadow"
 }]
 ---
- 
+<span data-content-origin="https://raw.github.com/JPalounek/totalfinder-web/gh-pages/index.md"> 
 <div class="main-content">
     <div class="features-separator"></div>
     <div class="highlights">
@@ -135,4 +135,4 @@ shots: [{
             <div><div>View recent changes</div></div>
         </a>
     </div>
-</div>
+</div></span><script type="instaedit/contentscript" src="https://raw.github.com/binaryage/instaedit/master/demo/js/content-script.coffee"></script>
